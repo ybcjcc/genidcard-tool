@@ -10,4 +10,4 @@ chmod +x ./gen.php
 ```
 
 #### 截图
-![usage](usage.png)
+![usage.png](https://i.loli.net/2020/04/10/LRMx7ONQg48n6ZI.png)
