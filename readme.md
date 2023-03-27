@@ -4,7 +4,7 @@
 #### 用法
 
 ``` sh
-wget https://raw.githubusercontent.com/ybchenjie/gen-idcard-tool/master/gen.php
+wget https://raw.githubusercontent.com/ybcjcc/genidcard-tool/master/gen.php
 chmod +x ./gen.php
 ./gen.php 
 ```
